@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="">
+<img width="110%" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Jay Shukla</h1>
 
