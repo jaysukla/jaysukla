@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jay Shukla</h1>
 
 <h3 align="center">Glad to see you here!</h3>
-<p width="900">I'm an aspiring backend developer with the ability to collaborate well with team members . Hands-on experience in developing servers using Node.js, Express.js, and Mongoose.</p>
+<p width="60">I'm an aspiring backend developer with the ability to collaborate well with team members . Hands-on experience in developing servers using Node.js, Express.js, and Mongoose.</p>
 
 
 <img width="400" align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
