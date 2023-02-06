@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jaysukla.github.io/](https://jaysukla.github.io/)
 
-- 📫 How to reach me **am7343249@gmail.com**
+- 📫 How to reach me [am7343249@gmail.com](am7343249@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
